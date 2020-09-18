@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="add">Agregar</string>
+    <string name="view">Ver Notas</string>
+    <string name="title">Notas App</string>
+    <string name="titleAdd">Agrega tus notas</string>
+</resources>
